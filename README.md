@@ -20,7 +20,7 @@ A one stop website for collaborative study sessions.
 Here are the awesome contributors to this project:
 
 - [Payal katiyar](https://github.com/payalkatiyar)
-- [Shreya samal](https://github.com/shrey167)
+- [Shreya samal](https://github.com/shre167)
 - [Avilasha Bhui](https://github.com/AvilashaRocks)
 - [Shivangi Tripathi](https://github.com/shivsspace)
 - [Debolina Saha](https://github.com/IamDebolina)
