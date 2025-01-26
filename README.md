@@ -23,7 +23,7 @@ Here are the awesome contributors to this project:
 - [Shreya samal](https://github.com/shrey167)
 - [Avilasha Bhui](https://github.com/AvilashaRocks)
 - [Shivangi Tripathi](https://github.com/shivsspace)
-- [Debolina Saha](https://github.com/debolinasaha)
+- [Debolina Saha](https://github.com/IamDebolina)
 
 
 
